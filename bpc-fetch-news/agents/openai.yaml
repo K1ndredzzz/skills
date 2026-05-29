@@ -1,0 +1,4 @@
+interface:
+  display_name: "BPC Fetch News"
+  short_description: "Fetch paywalled news as Markdown with images"
+  default_prompt: "Use $bpc-fetch-news to fetch paid news articles as Markdown with images."
