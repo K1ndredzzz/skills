@@ -1,0 +1,4 @@
+interface:
+  display_name: "并行网申投递"
+  short_description: "主代理统筹、子代理按账号隔离投递，核对资料、保存状态与最终回执"
+  default_prompt: "使用 $parallel-job-applications 按已授权岗位清单组织子代理投递，先完成单站试投，再调度独立账号域并行执行并汇总回执。"
