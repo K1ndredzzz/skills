@@ -1,0 +1,4 @@
+interface:
+  display_name: "自然地貌三维沙盘"
+  short_description: "复用真实地理数据制作自然轮廓沙盘、体素地图、多视角渲染及交互网页"
+  default_prompt: "使用 $terrain-diorama，为大瓦山与金口大峡谷规划并制作自然轮廓三维地貌沙盘，优先复用当前四川项目的数据与工具。"
